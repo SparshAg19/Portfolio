@@ -1,0 +1,14 @@
+{
+  "name": "sparsh-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio – Sparsh Agarwal, Cybersecurity @ VIT Vellore",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
