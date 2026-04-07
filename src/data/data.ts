@@ -28,7 +28,7 @@ export interface Skill {
 export const hero = {
   name: 'Sparsh Agarwal',
   titles: [
-    'Cybersecurity Enthusiast',
+    'Cybersecurity Student',
     'Ethical Hacker in Training',
     'Network Security Explorer',
     'B.Tech @ VIT Vellore',
